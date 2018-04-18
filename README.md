@@ -1,0 +1,2 @@
+# pguq
+postgresql. Useful querries
